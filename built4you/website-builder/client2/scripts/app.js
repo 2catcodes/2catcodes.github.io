@@ -1,1 +1,0 @@
-console.log('Client 2 script running');
